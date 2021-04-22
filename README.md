@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Peter Xenopoulos. I'm a PhD candidate at New York University, where I develop machine learning and visual analytics tools for sports. As an undergraduate, I worked as an analyst for two summers with the [Phillies](https://en.wikipedia.org/wiki/Philadelphia_Phillies), and then my first summer of grad school I spent building models with [Big League Advance](https://bigleagueadvance.com/). Outside of sports, I've also worked in tech, analyzing investments for [Tuesday VC (formerly Crunchfund)](https://tuesday.vc/), and as a data science intern at Facebook.
+I'm Peter Xenopoulos. I'm a PhD candidate at New York University, where I develop machine learning and visual analytics tools for sports. As an undergraduate, I worked as an analyst for two summers with the [Phillies](https://en.wikipedia.org/wiki/Philadelphia_Phillies), and then my first summer of grad school I spent building models with [Big League Advance](https://bigleagueadvance.com/). Outside of sports, I've also worked in tech, analyzing investments for [Tuesday VC (formerly Crunchfund)](https://tuesday.vc/).
 
 #### Projects
 ##### CSGO demofile parsing in Python

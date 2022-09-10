@@ -1,5 +1,5 @@
 ### Hey there! 👋
-![Website](https://img.shields.io/website?up_message=visit&url=http%3A%2F%2Fpeterxeno.com) ![Twitter Follow](https://img.shields.io/twitter/follow/peterxeno?style=social)
+[![GitHub issues](https://img.shields.io/badge/visit-website-informational)](http://peterxeno.com) [![Twitter Follow](https://img.shields.io/twitter/follow/peterxeno?style=social)](https://twitter.com/peterxeno)
 
 I'm Peter Xenopoulos. I'm a computer science PhD candidate at New York University. My research focuses on developing machine learning and visual analytics solutions for esports, along with techniques for machine learning model analysis. I've worked with a professional baseball team (the [Phillies](https://en.wikipedia.org/wiki/Philadelphia_Phillies)), a top seed-stage venture capital fund ([Tuesday VC (formerly Crunchfund)](https://tuesday.vc/)), a sports betting startup ([Big League Advance](https://bigleagueadvance.com/).), and Facebook. I maintain the following projects:
 

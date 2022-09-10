@@ -1,5 +1,5 @@
 ### Hey there! 👋
-[![GitHub issues](https://img.shields.io/badge/visit-website-informational)](http://peterxeno.com) [![Twitter Follow](https://img.shields.io/twitter/follow/peterxeno?style=social)](https://twitter.com/peterxeno)
+[![Peter Xenopoulos Website](https://img.shields.io/badge/visit%20my-website-blueviolet)](http://peterxeno.com) [![Peter Xenopoulos Twitter](https://img.shields.io/twitter/follow/peterxeno?style=social)](https://twitter.com/peterxeno) [![Peter Xenopoulos LinkedIn](https://img.shields.io/badge/linked-in-informational)](https://www.linkedin.com/in/xenopoulos/)  [![Peter Xenopoulos Google Scholar](https://img.shields.io/badge/google-scholar-success)](https://scholar.google.com/citations?user=F-JeV_kAAAAJ)
 
 I'm Peter Xenopoulos. I'm a computer science PhD candidate at New York University. My research focuses on developing machine learning and visual analytics solutions for esports, along with techniques for machine learning model analysis. I've worked with a professional baseball team (the [Phillies](https://en.wikipedia.org/wiki/Philadelphia_Phillies)), a top seed-stage venture capital fund ([Tuesday VC (formerly Crunchfund)](https://tuesday.vc/)), a sports betting startup ([Big League Advance](https://bigleagueadvance.com/).), and Facebook. I maintain the following projects:
 
@@ -7,5 +7,3 @@ I'm Peter Xenopoulos. I'm a computer science PhD candidate at New York Universit
 - [ESTA](https://github.com/pnxenopoulos/ESTA) A large esports dataset, which contains 8.6m player actions, 7.9m game frames and 417k player trajectories from 1.5k professional CSGO matches.
 - [PyCalibrate](https://github.com/VIDA-NYU/pycalibrate), a visual analytics tool to analyze model calibration. This work was accepted to IEEE VIS 2022.
 - Through a collaboration with Capital One, we developed [GALE](https://github.com/pnxenopoulos/gale), a technique to measure the similarity between sets of local explanations. This work was accepted for a spotlight talk at the TAGML workshop at ICML 2022.
-
-Useful links: [LinkedIn](https://www.linkedin.com/in/xenopoulos/), [Google Scholar](https://scholar.google.com/citations?user=F-JeV_kAAAAJ)
